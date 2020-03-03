@@ -1,0 +1,4 @@
+{
+    "java.completion.guessMethodArguments": true,
+    "java.saveActions.organizeImports": true
+}
